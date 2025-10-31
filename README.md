@@ -68,6 +68,27 @@ Here are the five key activities:
 - **2. Requirement Elicitation**  
   Elicitation focuses on **actively engaging stakeholders** to extract detailed and accurate requirements.  
   Techniques such as interviews, focus groups, observations, and workshops are used to uncover both **explicit needs** (what users say) and **implicit needs** (what users might not express directly).
+## Types of Requirements
+
+### Functional Requirements  
+Functional requirements describe **what the system must do** — the specific behaviours or functions of the booking management system.
+
+For example, based on a hotel/property booking system:  
+- A user must be able to **search** properties (by location, date, price, amenities). :contentReference[oaicite:0]{index=0}  
+- A user must be able to view detailed **property listings** (photos, description, rating, availability). :contentReference[oaicite:1]{index=1}  
+- A user must be able to **make a booking/reservation** for a selected property (check‐in, check‐out, number of guests). :contentReference[oaicite:2]{index=2}  
+- The system must allow a property owner or manager to **register a property** and manage availability. :contentReference[oaicite:3]{index=3}  
+- The system must send **confirmation notifications** once a booking is completed. :contentReference[oaicite:4]{index=4}  
+
+### Non-functional Requirements  
+Non-functional requirements describe **how the system performs** — constraints on the system (quality attributes such as performance, security, scalability).
+
+Examples for the booking system:  
+- The system must provide **low latency** in search results (e.g., respond quickly when a user searches for available properties). :contentReference[oaicite:5]{index=5}  
+- The system must be **highly scalable** to handle many users and many bookings concurrently. :contentReference[oaicite:6]{index=6}  
+- The system must ensure **data consistency and prevent double-booking** of the same room/property for overlapping dates. :contentReference[oaicite:7]{index=7}  
+- The system must provide **secure authentication and protect user data** (login, payment, personal information). :contentReference[oaicite:8]{index=8}  
+- The system must be **highly available and reliable**, even under peak load. :contentReference[oaicite:9]{index=9}  
 
 - **3. Requirement Documentation**  
   After gathering and eliciting requirements, they must be **organized and documented** in a clear, structured format.  

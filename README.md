@@ -53,3 +53,36 @@ When requirements are well-defined and validated, the resulting software is **mo
 ---
 
 In summary, Requirement Analysis acts as the **blueprint** for software development — guiding teams toward building the right product, the right way, for the right users.
+
+## Key Activities in Requirement Analysis
+
+The Requirement Analysis phase involves several structured activities designed to understand, document, and validate what the system should do.  
+Each activity contributes to ensuring that the software solution meets user needs and business objectives.
+
+Here are the five key activities:
+
+- **1. Requirement Gathering**  
+  This is the process of **collecting information from stakeholders** about what they need and expect from the system.  
+  It involves identifying user goals, business objectives, and system constraints. Common techniques include surveys, questionnaires, brainstorming sessions, and document reviews.
+
+- **2. Requirement Elicitation**  
+  Elicitation focuses on **actively engaging stakeholders** to extract detailed and accurate requirements.  
+  Techniques such as interviews, focus groups, observations, and workshops are used to uncover both **explicit needs** (what users say) and **implicit needs** (what users might not express directly).
+
+- **3. Requirement Documentation**  
+  After gathering and eliciting requirements, they must be **organized and documented** in a clear, structured format.  
+  Documentation ensures that all requirements are traceable, measurable, and understandable by both technical and non-technical team members.  
+  Examples include Software Requirement Specification (SRS) documents, user stories, and use case diagrams.
+
+- **4. Requirement Analysis and Modeling**  
+  This step involves **analyzing the gathered requirements** to identify dependencies, conflicts, or inconsistencies.  
+  Models such as **use case diagrams**, **data flow diagrams (DFDs)**, or **entity-relationship diagrams (ERDs)** are created to visualize system behavior and data interactions.  
+  The goal is to translate user needs into precise, implementable specifications.
+
+- **5. Requirement Validation**  
+  The final step ensures that the documented requirements are **accurate, complete, consistent, and aligned** with stakeholder goals.  
+  Validation may include reviews, walkthroughs, and prototyping sessions to confirm that the requirements reflect real user needs and business priorities.
+
+---
+
+Together, these activities ensure that the development team builds a product that is **well-understood, feasible, and valuable** to its intended users.

@@ -135,10 +135,10 @@ Acceptance Criteria are typically written in simple, clear language so that both
 ---
 
 ### Importance of Acceptance Criteria in Requirement Analysis
-- ✅ **Clarifies expectations:** Ensures developers, testers, and stakeholders agree on what “done” means for a feature.  
-- 🧩 **Guides development and testing:** Provides a checklist that developers and QA teams can use to verify functionality.  
-- 💬 **Reduces misunderstandings:** Helps avoid scope creep and vague requirements by defining clear boundaries.  
-- 🧠 **Supports user-centric design:** Keeps development focused on delivering value that meets user needs.
+- **Clarifies expectations:** Ensures developers, testers, and stakeholders agree on what “done” means for a feature.  
+- **Guides development and testing:** Provides a checklist that developers and QA teams can use to verify functionality.  
+- **Reduces misunderstandings:** Helps avoid scope creep and vague requirements by defining clear boundaries.  
+- **Supports user-centric design:** Keeps development focused on delivering value that meets user needs.
 
 ---
 

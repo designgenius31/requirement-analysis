@@ -124,3 +124,41 @@ They help stakeholders understand what the system does from a user’s perspecti
 The following Use Case Diagram represents a simplified version of the **booking management system**, showing interactions between Guests, Hosts, Admins, and the System.
 
 ![Use Case Diagram for Booking System](./alx-booking-uc.png)
+## Acceptance Criteria
+
+### What is Acceptance Criteria?
+**Acceptance Criteria** are the specific, measurable conditions that a software feature must meet to be **accepted by stakeholders or product owners**.  
+They define **what success looks like** for a feature and ensure that everyone has a shared understanding of the expected behavior and outcomes.
+
+Acceptance Criteria are typically written in simple, clear language so that both technical and non-technical stakeholders can understand them.
+
+---
+
+### Importance of Acceptance Criteria in Requirement Analysis
+- ✅ **Clarifies expectations:** Ensures developers, testers, and stakeholders agree on what “done” means for a feature.  
+- 🧩 **Guides development and testing:** Provides a checklist that developers and QA teams can use to verify functionality.  
+- 💬 **Reduces misunderstandings:** Helps avoid scope creep and vague requirements by defining clear boundaries.  
+- 🧠 **Supports user-centric design:** Keeps development focused on delivering value that meets user needs.
+
+---
+
+### Example: Acceptance Criteria for the “Checkout” Feature in the Booking Management System
+
+**Feature:** Checkout process for a booking system (completing a reservation and making payment).
+
+**User Story:**  
+> As a Guest, I want to securely complete my booking and make payment so that I can confirm my reservation.
+
+**Acceptance Criteria:**
+1. The user must be able to view a **summary of their booking details** (property name, dates, guests, and total price) before confirming.  
+2. The system must support **multiple payment methods** (credit/debit card, PayPal, etc.).  
+3. Payment processing must occur over a **secure, encrypted connection (HTTPS)**.  
+4. On successful payment, the system must:  
+   - Generate a **unique booking ID**.  
+   - Send a **confirmation email or notification** to the user within 5 minutes.  
+5. If payment fails, the system must display an **error message** and allow the user to **retry or cancel** the transaction.  
+6. The booking details and payment status must be stored accurately in the **database** for future reference.  
+
+---
+
+In summary, **Acceptance Criteria** act as the **final validation step** in the Requirement Analysis process — turning high-level requirements into testable, measurable conditions that ensure the delivered product meets stakeholder expectations.

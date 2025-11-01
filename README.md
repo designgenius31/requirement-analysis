@@ -107,3 +107,20 @@ Examples for the booking system:
 ---
 
 Together, these activities ensure that the development team builds a product that is **well-understood, feasible, and valuable** to its intended users.
+## Use Case Diagrams
+
+### What are Use Case Diagrams?
+**Use Case Diagrams** are visual representations that show the **interactions between users (actors)** and the **system’s functionalities (use cases)**.  
+They help stakeholders understand what the system does from a user’s perspective, without going into technical details.
+
+### Benefits of Use Case Diagrams
+- Provide a **clear overview** of system behavior and user interactions.  
+- Help identify **key functional requirements** early in the SDLC.  
+- Promote **better communication** between stakeholders and developers.  
+- Serve as a **foundation for test cases** and system design.
+
+### Example: Booking Management System
+
+The following Use Case Diagram represents a simplified version of the **booking management system**, showing interactions between Guests, Hosts, Admins, and the System.
+
+![Use Case Diagram for Booking System](./alx-booking-uc.png)
